@@ -1,0 +1,17 @@
+{
+  "name": "testalgolia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "keremdev",
+  "license": "ISC",
+  "dependencies": {
+    "algoliasearch": "^4.4.0",
+    "dotenv": "^8.2.0",
+    "firebase": "^7.18.0",
+    "firebase-tools": "^8.7.0"
+  }
+}
